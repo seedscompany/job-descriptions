@@ -1,7 +1,7 @@
 # seeds company job descriptions
 
 * product manager
-* tech lead
+* [tech lead](techlead/job-description.md)
 * engineer
 
 # tools we use
@@ -13,9 +13,9 @@
 # interviews
 
 * [team](https://geechs-magazine.com/tag/buisness/20171208)
-* [CEO](https://career.levtech.jp/guide/pickup/column/100/)
-* [engineer](https://www.wantedly.com/companies/persolcareer/post_articles/115049)
-* [engineer](https://www.persol-career.co.jp/recruit/engineer/interview/onojima.html)
+* [ceo](https://career.levtech.jp/guide/pickup/column/100/)
+* [engineer1](https://www.wantedly.com/companies/persolcareer/post_articles/115049)
+* [engineer2](https://www.persol-career.co.jp/recruit/engineer/interview/onojima.html)
 
 # sessions
 
