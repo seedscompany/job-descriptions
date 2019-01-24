@@ -1,8 +1,7 @@
 # seeds company job descriptions
 
-* product manager
-* [tech lead](techlead/job-description.md)
-* engineer
+* [tech lead](techlead/README.md)
+* [engineer](engineer/README.md)
 
 # tools we use
 
