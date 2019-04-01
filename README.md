@@ -24,6 +24,7 @@
 	* [in aws blog](https://aws.amazon.com/jp/blogs/news/aws-summit-tokyo-2017-amazon-ec2-container-service-session/)
 * [hikalab event 1](https://career.levtech.jp/hikalab/report/detail/51/)
 * [hikalab event 2](https://career.levtech.jp/hikalab/report/detail/56/)
+* [golang.tokyo](https://golangtokyo.connpass.com/event/113768/)
 
 # links
 
