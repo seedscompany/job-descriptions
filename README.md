@@ -4,6 +4,7 @@
 * [engineer](engineer/README.md)
 * [x-backend-subcontracting](x-backend-subcontracting/README.md)
 * [x-frontend-subcontracting](x-frontend-subcontracting/README.md)
+* [devops-sre-subcontracting](devops-sre-subcontracting/README.md)
 
 # tools we use
 
