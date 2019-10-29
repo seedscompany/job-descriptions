@@ -1,10 +1,17 @@
 # seeds company job descriptions
 
-* [tech lead](techlead/README.md)
-* [engineer](engineer/README.md)
-* [x-backend-subcontracting](x-backend-subcontracting/README.md)
-* [x-frontend-subcontracting](x-frontend-subcontracting/README.md)
-* [devops-sre-subcontracting](devops-sre-subcontracting/README.md)
+## [HITO-Manager](https://hitomgr.jp/)
+
+* [manager / leader](devops/leader.md)
+
+## [x:eee](https://xeee.jp)
+
+* [frontend engineer](x/front.md)
+* [backend leader / tech lead](x/back-leader.md)
+
+## common
+
+* [infrastructure engineer / SRE](sre/README.md)
 
 # tools we use
 
