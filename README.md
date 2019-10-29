@@ -2,7 +2,7 @@
 
 ## [HITO-Manager](https://hitomgr.jp/)
 
-* [manager / leader / tech lead](devops/techlead.md)
+* [manager / leader](devops/leader.md)
 
 ## [x:eee](https://xeee.jp)
 
